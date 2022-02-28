@@ -59,6 +59,7 @@ public class Calculatrice extends JFrame {
 	      fois.setBounds(210,195,70,30);
 	      add(fois);
 	      
+	      //Test GITHUB
 	      //Ferme la fenetre lors d'un click sur la croix de la fenetre
 	      setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	      
