@@ -1,2 +1,2 @@
 # Calculatrice
-Développement de calculatrice en Java avec eclipse.
+Développement de calculatrice avec une interface graphique en Java avec eclipse.
